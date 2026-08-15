@@ -1,0 +1,21 @@
+You are editing the existing 18-slide MedFlow Workshop Canvas deck that I already approved visually.
+
+DO NOT redesign the deck. Preserve its current layout system, navy/ivory/antique-gold/turquoise palette, typography, spacing, card variation, and composition diversity.
+
+I will provide IMAGE_MANIFEST.csv with direct HTTPS URLs plus CROP_AND_USE_RULES.md. Integrate the real images into the EXISTING deck.
+
+Rules:
+1. Use the exact URL mapped to each asset.
+2. Replace SVG/icon stand-ins with the real analogy/anatomy images where mapped.
+3. Keep strong generated geometry only as secondary annotation; it must not replace the requested real image.
+4. Use CONTAIN by default. Never crop away the defining object or anatomical target.
+5. If the aspect ratio does not fit, letterbox/matte inside the frame rather than cropping.
+6. Never duplicate the same image twice on a slide.
+7. If a URL fails, leave the existing design intact and report the failed filename. Never create a placeholder.
+8. Use the exact official MedFlow logo URL. Do not reconstruct or reinterpret it.
+9. Do not add Image Sources slides.
+10. Keep the same 18 learner-facing slides and sequence.
+11. Each root-family lesson should visibly communicate analogy ↔ anatomy.
+12. Do not convert the deck into a repeated side-by-side template. Preserve the excellent layout variation already present.
+
+Before editing, read CROP_AND_USE_RULES.md and IMAGE_MANIFEST.csv. Then update the existing deck instead of generating a new visual system.
