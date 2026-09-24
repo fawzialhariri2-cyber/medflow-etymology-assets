@@ -22,5 +22,5 @@ Arcus, Sagitta, Falx, Trochlea, Serra, Malleus/Malleolus, Incus, Stapes/Stapediu
 - Preserve anatomical recognizability and full key structures required by the crop rules.
 - Do not commit private API keys or local-only credentials.
 
-## Agent workflow
-Use a branch for changes, keep the task narrow, validate manifest/path consistency, and open a PR. Report changed files, validation performed, unresolved visual/content risks, commit hashes, and PR URL.
+## Agent workflow / zero-cost rule
+Use a branch for changes, keep the task narrow, and validate manifest/path consistency locally. Do not open Pull Requests, add GitHub Actions, enable billing, credits, premium overages, or paid APIs. Push only the branch and report changed files, validation performed, unresolved visual/content risks, and commit hashes. ChatGPT reviews pushed branches directly through GitHub.
